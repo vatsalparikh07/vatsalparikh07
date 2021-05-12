@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vatsal Parikh
-- 👀 I’m interested in Cloud Computing and DevOps
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Cloud Computing and DevOps!
+- 🌱 I’m currently learning Web Development.
 - 📫 Reach me @parikhvatsal7101@gmail.com
 
 <!---
