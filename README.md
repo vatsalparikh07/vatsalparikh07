@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vatsal Parikh
-- 👀 I’m interested in Cloud Computing and DevOps!
+- 👀 I’m interested in Machine Learning!
 - 🌱 I’m currently learning Data Science.
 - 📫 Reach me @parikhvatsal7101@gmail.com
 
