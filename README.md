@@ -1,5 +1,5 @@
 # 💫 About Me
-### 👋 Hi, I’m Vatsal Parikh<br>🔭 I’m currently working on a 100 Days of Data Science Challenge<br>👀 I’m interested in Deep Learning and LLMs<br>🌱 I’m currently learning Data Science!<br>💬 Ask me about everything related to Data <br>
+### 👋 Hi, I’m Vatsal Parikh<br>🔭 I’m currently working on a 100 Days of Data Science Challenge!<br>👀 I’m interested in Deep Learning and LLMs.<br>🌱 I’m currently learning Data Science!<br>💬 Ask me about everything related to Data.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vatsalparikh07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parikhvatsal7101@gmail.com) 
