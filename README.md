@@ -1,5 +1,17 @@
-# 💫 About Me
-### 🔭 I’m currently working on a 100 Days of Data Science Challenge!<br>👀 I’m interested in Deep Learning and LLMs.<br>🌱 I’m currently learning Data Science!<br>💬 Ask me about everything related to Data.<br>
+## 💡 About Me  
+
+🚀 **Data Science Enthusiast | AI Researcher | Open Source Contributor**  
+
+👨‍🎓 **Master's in Data Science @ Indiana University**  
+🔬 **Research Assistant** - NLP, Topic Modeling, and Social Network Analysis  
+📊 **Data Science & AI** - LLMs, NLP, ML, Deep Learning, Generative AI  
+🛠️ **Passionate about building AI-powered applications & scalable ML models**  
+🎯 **Currently working on:** Exploring **RAG, LLMs, AI Security, and Misinformation Detection**  
+
+💬 **Ask me about:** Everything related to **Data Science, LLMs, and AI Research**!  
+📌 **Fun Fact:** I love participating in **hackathons** and have published research on **OpenAI’s Sora model**!  
+
+---
 
 # 💻 Tech Stack
 
