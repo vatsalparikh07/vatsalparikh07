@@ -38,5 +38,3 @@
 ### ✍️ Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=vatsalparikh07&icon=10&color=13)](https://visitcount.itsvg.in)
